@@ -1,6 +1,6 @@
 import os
 import vertexai
-from vertexai.generative_models import GenerativeModel, Part
+from vertexai.generative_models import GenerativeModel
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 
@@ -33,13 +33,11 @@ Odpovedaj stručne a jasne.
 --- KONIEC KONTEXTU ---
 """
 
-# --- TOTO JE OPRAVENÁ INICIALIZÁCIA MODELU ---
-# Model inicializujeme JEDEN KRÁT aj s jeho systémovou inštrukciou.
+# --- Inicializácia modelu (s tou správnou systémovou inštrukciou) ---
 model = GenerativeModel(
     "gemini-2.5-flash",
-    system_instruction=SYSTEM_PROMPT  # <-- OPRAVA JE TU
+    system_instruction=SYSTEM_PROMPT
 )
-# --- KONIEC OPRAVY ---
 
 @app.route("/chat", methods=["POST"])
 def chat():
@@ -51,21 +49,24 @@ def chat():
 
         user_question = data.get("question")
 
-        # --- TOTO JE TIEŽ OPRAVENÉ (ZJEDNODUŠENÉ) ---
-        # Keďže model už pozná svoju rolu (z inicializácie),
-        # posielame mu už iba samotnú konverzáciu.
+        # --- TOTO JE OPRAVENÁ ČASŤ (v.4) ---
+        # Namiesto triedy "Part.from_text()" posielame obyčajný slovník.
         
         chat_history = [
-             {"role": "user", "parts": [Part.from_text(user_question)]}
-             # V budúcnosti sem môžete pridať aj históriu
+             {
+                 "role": "user", 
+                 "parts": [
+                     {"text": user_question}  # <-- TOTO JE TÁ OPRAVA
+                 ]
+             }
         ]
         
-        # Zavolanie Gemini API (teraz už bez 'system_instruction')
+        # Zavolanie Gemini API
         response = model.generate_content(
             chat_history,
             generation_config={"temperature": 0.0}
         )
-        # --- KONIEC OPRAVY ---
+        # --- KONIEC OPRAVENEJ ČASTI ---
         
         ai_answer = response.text
 
