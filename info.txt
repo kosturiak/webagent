@@ -40,7 +40,7 @@ Zavedenie denného poradovníka (eČasenka) v našej ambulancii si vyžiadali pa
 
 4. Na objednanie nového pacienta slúžia tlačítko "NOVÝ PACIENT" alebo si pacient príde vytlačiť lístok do čakárne ráno o 7:00 hod. 
 
-5. Ak eČasenka oznamuje, že "Lekár už nemá voľné termíny", znamená to, že v požadovaný deň zostalo ešte 12 časeniek, ktoré budú dostupné o 7:00 hod v daný deň (čísla 1,2,3,4,6,8,9,10,11,12,13,14,15) - pozri I.)
+5. Ak eČasenka oznamuje, že "Lekár už nemá voľné termíny" na daný dátum, znamená to, že v požadovaný deň je ešte 12 časeniek (čísla 1,2,3,4,6,8,9,10,11,12,13,14,15 - pozri aj č.I.), ktoré budú dostupné od 7:00 hod ráno.
 
 6. Nevolajte nám, aké je teraz číslo v ambulancii. Zdržujete ostatných a aj tak nezistíte kedy budete na rade. ** TIP: Ak sa privoláte, dostanete SMS keď budú pred vami 3 pacienti. Nečakajte na SMS v iných mestách, pohybujte sa v blízkosti polikliniky. Máme tu nákupené centrá, 3 potravinové supermarkety, detské ihrisko či kostol. **
 
@@ -59,3 +59,8 @@ Recepty si objednávajte cez eČasenku. **TIP: Ak si objednáte recept cez eČas
 
 === DOVOLENKY ===
 Sledujte web lekartin.sk a eČasenku, kde sú najnovšie oznamy
+
+=== AK SA VÁM ČASENKA NEUŠLA, ALEBO SA ČASENKY MINULI ===
+Ak eČasenka oznamuje, že "Lekár už nemá voľné termíny" na daný dátum, znamená to, že v požadovaný deň je ešte 12 časeniek (čísla 1,2,3,4,6,8,9,10,11,12,13,14,15 - pozri aj č.I.), ktoré budú dostupné od 7:00 hod ráno.
+
+
