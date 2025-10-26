@@ -1,4 +1,4 @@
-=== OBJEDNÁVANIE na 1. vyšetrenie. Iba pre tých, ktorí u nás ešte nikdy neboli) ===
+=== OBJEDNÁVANIE na 1. vyšetrenie. Iba pre tých, ktorí u nás ešte nikdy neboli. Nový pacient.) ===
 Na prvé vyšetrenie u nás sa nemusíte objednávať telefonicky ! Existujú 3 spôsoby prihlásenia na prvé vyšetrenie: 
 
 I.) Ráno o 7:00 hod si môžete vytlačiť lístok v čakárni. 
@@ -25,4 +25,37 @@ Pacienti na prvé vyšetrenie:
   
 3. Ak užívate tablety alebo sirupy na liečbu alergie, je potrebné ich vysadiť 1 týždeň pred prvým vyšetrením. Iné lieky (kvapky do nosa, spreje na astmu, či lieky na rôzne choroby - vysoký tlak a iné ...) si nikdy nevysaďte! 
 
+
 4. Na prvovyšetrenie si vyhraďte na seba resp. Vaše dieťa dostatok času.
+
+=== AKO FUNGUJE E-ČASENKA ===
+Zavedenie denného poradovníka (eČasenka) v našej ambulancii si vyžiadali pacienti, poisťovne a legislatíva. Poradové číslo Vám zabezpečí anonymitu a skráti Váš čas strávený v čakárni. Uvádzame niekoľko informácií, ktoré Vám uľahčia využívať výhody eČasenky.
+
+1. Každý pacient má mať svoje poradové číslo (to platí najmä pre rodiny s viacerými pacientami ...). Ide o to, aby ostatní čakajúci za Vami vedeli svoje skutočné poradie ... 
+** TIP: Ak idete na vyšetrenie dvaja, alebo traja, zoberte si 2 resp. 3 časenky, ale privolajte sa iba na prvú, zvyšné si dajte bez privolania **
+
+2. Kiosk vydáva časenky od 7:00 hod, zbytočne prichádzate skôr. Okrem kiosku v čakárni sa o 7:00 hod spúšťa aj kiosk na internete, ktorý vydáva časenky na aktuálny deň.
+
+** TIP: Netlačte sa zbytočne o 7:00 pri kiosku v čakárni. Zaraďte sa do poradia na aktuálny deň z domu, z mobilu atď. **
+
+4. Na objednanie nového pacienta slúžia tlačítko "NOVÝ PACIENT" alebo si pacient príde vytlačiť lístok do čakárne ráno o 7:00 hod. 
+
+5. Ak eČasenka oznamuje, že "Lekár už nemá voľné termíny", znamená to, že v požadovaný deň zostalo ešte 12 časeniek, ktoré budú dostupné o 7:00 hod v daný deň (čísla 1,2,3,4,6,8,9,10,11,12,13,14,15) - pozri I.)
+
+6. Nevolajte nám, aké je teraz číslo v ambulancii. Zdržujete ostatných a aj tak nezistíte kedy budete na rade. ** TIP: Ak sa privoláte, dostanete SMS keď budú pred vami 3 pacienti. Nečakajte na SMS v iných mestách, pohybujte sa v blízkosti polikliniky. Máme tu nákupené centrá, 3 potravinové supermarkety, detské ihrisko či kostol. **
+
+7. Recepty si objednávajte cez eČasenku. **TIP: Ak si objednáte recept cez eČasenku, ušetrili ste telefonát (často opakovaný, keďže sme celý deň plne vyťažení) a recept Vám predpíšeme ELEKTRONICKY (t.j. nemusíte si poň chodiť). Takýto recept si vyberiete v ktorejkoľvej lekárni na Slovensku napojenej do eZdravia.** 
+
+==== ORDINAČNÉ HODINY - KEDY LEKÁR PRACUJE ?===
+
+Pondelok:🩺07:00 - 13:00  🍴OBED  13:00-13:30  📞📝OD 13:30 ADMINISTRATIVA A TELEFONÁTY DO 15:00  
+Utorok:	 🩺07:00 - 13:00  🍴OBED  13:00-13:30  📞📝OD 13:30 ADMINISTRATIVA A TELEFONÁTY DO 15:00
+Streda:	 🩺07:00 - 13:00  🍴OBED  13:00-13:30 📞📝OD 13:30 ADMINISTRATIVA A TELEFONÁTY DO 15:00
+Štvrtok: 🩺07:00 - 13:00  🍴OBED  13:00-13:30 📞📝OD 13:30 ADMINISTRATIVA A TELEFONÁTY DO 15:00
+Piatok:	 🩺07:00 - 13:00  🍴OBED  13:00-13:30 📞📝OD 13:30 ADMINISTRATIVA A TELEFONÁTY DO 15:00
+
+==== PREDPISY LIEKOV ====
+Recepty si objednávajte cez eČasenku. **TIP: Ak si objednáte recept cez eČasenku, ušetrili ste telefonát (často opakovaný, keďže sme celý deň plne vyťažení) a recept Vám predpíšeme ELEKTRONICKY (t.j. nemusíte si poň chodiť). Takýto recept si vyberiete v ktorejkoľvej lekárni na Slovensku napojenej do eZdravia.**
+
+=== DOVOLENKY ===
+Sledujte web lekartin.sk a eČasenku, kde sú najnovšie oznamy
