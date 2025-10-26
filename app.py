@@ -12,9 +12,7 @@ PROJECT_ID = os.environ.get("GOOGLE_CLOUD_PROJECT")
 LOCATION = "europe-west1"
 vertexai.init(project=PROJECT_ID, location=LOCATION)
 
-model = GenerativeModel("gemini-2.5-flash")
-
-# Načítanie Vašej bázy znalostí
+# --- Načítanie Vašej bázy znalostí ---
 try:
     with open("info.txt", "r", encoding="utf-8") as f:
         KNOWLEDGE_BASE = f.read()
@@ -35,45 +33,45 @@ Odpovedaj stručne a jasne.
 --- KONIEC KONTEXTU ---
 """
 
+# --- TOTO JE OPRAVENÁ INICIALIZÁCIA MODELU ---
+# Model inicializujeme JEDEN KRÁT aj s jeho systémovou inštrukciou.
+model = GenerativeModel(
+    "gemini-2.5-flash",
+    system_instruction=SYSTEM_PROMPT  # <-- OPRAVA JE TU
+)
+# --- KONIEC OPRAVY ---
+
 @app.route("/chat", methods=["POST"])
 def chat():
     try:
         data = request.get_json()
         
-        # Overenie, či JSON dáta prišli a či obsahujú kľúč 'question'
         if not data or "question" not in data:
             return jsonify({"error": "Chýbajúce dáta alebo kľúč 'question' v JSON body."}), 400
 
         user_question = data.get("question")
 
-        # --- TOTO JE OPRAVENÁ ČASŤ ---
-        # Správny formát pre Vertex AI 'generate_content'
+        # --- TOTO JE TIEŽ OPRAVENÉ (ZJEDNODUŠENÉ) ---
+        # Keďže model už pozná svoju rolu (z inicializácie),
+        # posielame mu už iba samotnú konverzáciu.
         
-        # 1. Systémový prompt ide ako samostatný argument
-        system_instruction = SYSTEM_PROMPT
-        
-        # 2. História chatu používa 'parts' a 'text'
         chat_history = [
              {"role": "user", "parts": [Part.from_text(user_question)]}
-             # V budúcnosti sem môžete pridať aj históriu konverzácie
-             # {"role": "model", "parts": [Part.from_text(predchadzajuca_odpoved_ai)]},
-             # {"role": "user", "parts": [Part.from_text(nova_otazka)]}
+             # V budúcnosti sem môžete pridať aj históriu
         ]
         
-        # Zavolanie Gemini API v správnom formáte
+        # Zavolanie Gemini API (teraz už bez 'system_instruction')
         response = model.generate_content(
             chat_history,
-            system_instruction=system_instruction, # <-- OPRAVA 1
             generation_config={"temperature": 0.0}
         )
-        # --- KONIEC OPRAVENEJ ČASTI ---
+        # --- KONIEC OPRAVY ---
         
         ai_answer = response.text
 
         return jsonify({"answer": ai_answer})
 
     except Exception as e:
-        # Vrátime presnú chybu, ktorú vrátil Google, pre lepšie ladenie
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
