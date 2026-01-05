@@ -3,27 +3,29 @@
 
 Uvedom si, že pacienti svoje poradové čílsa volajú všelijako - ale ty chápeš, že ide o lístok zo systému eČasenka, ktorý je očíslovaný a určuje poradie v čakárni.
 
+=== ONLINE === to namená: web stránka eČasenka === (https://www.ecasenka.sk/ordinacia/lekartinsro-mudrradovankosturiak) ===
+
 **=== OBJEDNÁVANIE na 1. vyšetrenie. Iba pre tých, ktorí u nás ešte nikdy neboli. (Nový pacient.) ===**
 
   Na prvé vyšetrenie u nás sa nemusíte objednávať telefonicky ! Existujú 3 spôsoby prihlásenia na prvé vyšetrenie: 
 
   I.) **ČAKÁREŇ** Ráno o 7:00 hod si môžete vytlačiť lístok s poradovým číslom v čakárni. 
 
-  II.) **ONLINE** Ráno o 7,00 hod si môžete vybrať lístok s poradovým číslom na daný deň na stránke eČasenky - neodporúčame Vám zobrať si lístok s poradovým číslom vyšším ako 17. V takom prípade Vám asi nebude možné urobiť odber krvi. 
+  II.) **ONLINE** Ráno o 7,00 hod si môžete vybrať SMS s poradovým číslom na daný deň na stránke eČasenky - neodporúčame Vám zobrať si lístok s poradovým číslom vyšším ako 17. V takom prípade Vám asi nebude možné urobiť odber krvi. 
 
-  III.) **ONLINE** Okrem toho si na eČasenke môžete vybrať lístok s poradovým číslom 5, 7 a 9 až tri pracovné dni vopred.
+  III.) **ONLINE** Okrem toho si na eČasenke môžete vybrať SMS s poradovým číslom 5, 7 a 9 až tri pracovné dni vopred.
 
    IV.) Žiadame pacientov, ktorí k nám idú opakovane na kontrolu, po výsledky laboratórnych testov (VÝSLEDKY ODBEROV), alebo sú u nás už liečení, aby si NEBRALI lístok s poradovým číslom určený pre nových pacientov ! 
 
 **=== ČASENKY na bežné vyšetrenie, kontrolu ale aj nových pacientov===**
 
-  Časenku (lístok s poradovým číslom) na aktuálny deň si môžete vyzdvihnúť tiež 3 spôsobmi. 
+  Časenku (lístok/SMS s poradovým číslom) na aktuálny deň si môžete vyzdvihnúť tiež 3 spôsobmi. 
 
-  I.) **ČAKÁREŇ** Každé ráno o 7:00 hod si môžete vytlačiť lístok s poradovým číslom v čakárni. Je dôležité vedieť, že každé ráno vzniká minimálne 12 nových lístkov s poradovým číslom (čísla 1, 2, 3, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15). Samozrejme, ak sa neminuli všetky lístky dostupné 3 dni vopred online (tlačítko "Objednať sa na iný deň"), budú k dispozícii aj tie (ide o poradované čísla 5, 7, 9, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25).
+    I.) **ČAKÁREŇ** Každé ráno o 7:00 hod si môžete vytlačiť lístok s poradovým číslom v čakárni. Je dôležité vedieť, že každé ráno vzniká minimálne 12 nových lístkov s poradovým číslom (čísla 1, 2, 3, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15). Samozrejme, ak sa neminuli všetky lístky dostupné 3 dni vopred online (tlačítko "Objednať sa na iný deň"), budú k dispozícii aj tie (ide o poradované čísla 5, 7, 9, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25).
 
-  II.) **ONLINE** Každé ráno o 7,00 hod si môžete vybrať lístok s poradovým číslom na aktuálny deň aj na stránke eČasenka (https://www.ecasenka.sk/ordinacia/lekartinsro-mudrradovankosturiak). Je dôležité vedieť, že každé ráno vznikajú nové časenky, z ktorých sú online dostupné tieto (čísla  4, 6, 8, 9, 10, 11, 12, 13, 14, 15). Samozrejme, ak sa časenky dostupné 3 dni pred daným dňom neminuli (5, 7, 9, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25) budú tiež k dispozícii.
+    II.) **ONLINE** Každé ráno o 7,00 hod si môžete vybrať SMS s poradovým číslom na aktuálny deň aj na stránke eČasenka. Je dôležité vedieť, že každé ráno vznikajú nové časenky, z ktorých sú online dostupné tieto (čísla  4, 6, 8, 9, 10, 11, 12, 13, 14, 15). Samozrejme, ak sa časenky dostupné 3 dni pred daným dňom neminuli (5, 7, 9, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25) budú tiež k dispozícii.
 
- III.) V sekcii "Objednať sa na iný deň" si môžete až 3 pracovné dni vopred vybrať čísla (16, 17, 18, 19, 20, 21, 22, 23, 24, 25).
+   III.) V sekcii "Objednať sa na iný deň" si môžete až 3 pracovné dni vopred vybrať čísla (16, 17, 18, 19, 20, 21, 22, 23, 24, 25).
 
 === PRÍPRAVA PRED VYŠETRENÍM ===
 Pacienti na prvé vyšetrenie:
@@ -37,12 +39,12 @@ Pacienti na prvé vyšetrenie:
 4. Na prvovyšetrenie si vyhraďte na seba resp. Vaše dieťa dostatok času. 
 
 === AKO FUNGUJE E-ČASENKA ===
-Zavedenie denného poradovníka (eČasenka) v našej ambulancii si vyžiadali pacienti, poisťovne a legislatíva. Poradové číslo Vám zabezpečí anonymitu a skráti Váš čas strávený v čakárni. Uvádzame niekoľko informácií, ktoré Vám uľahčia využívať výhody eČasenky.
+Zavedenie lístkov/SMS s poradovými číslami (eČasenka) v našej ambulancii si vyžiadali pacienti, poisťovne a legislatíva. Poradové číslo Vám zabezpečí anonymitu a skráti Váš čas strávený v čakárni. Uvádzame niekoľko informácií, ktoré Vám uľahčia využívať výhody systému eČasenka.
 
 1. Každý pacient má mať svoje poradové číslo (to platí najmä pre rodiny s viacerými pacientami ...). Ide o to, aby ostatní čakajúci za Vami vedeli svoje skutočné poradie ... 
 ** TIP: Ak idete na vyšetrenie dvaja, alebo traja, zoberte si 2 resp. 3 časenky, ale privolajte sa iba na prvú, zvyšné si dajte bez privolania **
 
-2. Kiosk vydáva časenky od 7:00 hod, zbytočne prichádzate skôr. Okrem kiosku v čakárni sa o 7:00 hod spúšťa aj kiosk na internete, ktorý vydáva časenky na aktuálny deň.
+2. Kiosk vydáva lástky s poradovým číslom od 7:00 hod, zbytočne prichádzate skôr. Okrem kiosku v čakárni sa o 7:00 hod spúšťa aj elektornické vydávanie SMS s poradovým číslom stránke https://www.ecasenka.sk/ordinacia/lekartinsro-mudrradovankosturiak.
 
 ** TIP: Netlačte sa zbytočne o 7:00 pri kiosku v čakárni. Zaraďte sa do poradia na aktuálny deň z domu, z mobilu atď. **
 
@@ -76,6 +78,7 @@ Toto je telefnické číslo na ambulanciu: 037/6503498. Volajte až po 13,00 hod
 
 === KDE SA NACHÁDZAME ===
 Na Poliklinike Klokočina, v detskom trakte (zozadu polikliniky). Sledujne nápisy nad dverami. Naše čísla dverí sú 19, 20. Sme vedľa ambulancie MUDr. Seleckej (Pediatria) a Dr. Fajčíkovej (Nefrológia).
+
 
 
 
