@@ -1,4 +1,4 @@
-=== OBJEDNÁVANIE na 1. vyšetrenie. Iba pre tých, ktorí u nás ešte nikdy neboli. Nový pacient.) ===
+=== OBJEDNÁVANIE na 1. vyšetrenie. Iba pre tých, ktorí u nás ešte nikdy neboli. (Nový pacient.) ===
 Na prvé vyšetrenie u nás sa nemusíte objednávať telefonicky ! Existujú 3 spôsoby prihlásenia na prvé vyšetrenie: 
 
 I.) Ráno o 7:00 hod si môžete vytlačiť lístok v čakárni. 
@@ -7,26 +7,27 @@ II.) Ráno o 7,00 hod si môžete vybrať poradový lístok na daný deň na str
 
 III.) Okrem toho si na eČasenke môžete vybrať čísla 5, 7 a 9. až 3 pracovné dni vopred.
 
+IV.) Žiadame pacientov, ktorí k nám idú na kontrolu, po výsledky lab. testov, alebo sú u nás už liečení, aby si NEBRALI časenky určené pre nových pacientov ! 
+
 === ČASENKY na bežné vyšetrenie===
 Časenku (poradové číslo) na aktuálny deň si môžete vyzdvihnúť tiež 3 spôsobmi. 
 
-I.) Každé ráno o 7:00 hod si môžete vytlačiť lístok v čakárni. Je dôležité vedieť, že každé ráno vzniká minimálne 12 nových časeniek (čísla 1,2,3,4,6,8,9,10,11,12,13,14,15). Samozrejme, ak sa časenky dostupné 3 dni pred daným dňom neminuli (5,7,9, 16-25) budú tiež k dispozícii.
+I.) Každé ráno o 7:00 hod si môžete vytlačiť lístok v čakárni. Je dôležité vedieť, že každé ráno vzniká minimálne 12 nových časeniek (čísla 1, 2, 3, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15). Samozrejme, ak sa časenky dostupné 3 dni vopred online (cez tlačítko "Objednať sa na iný deň") neminuli, budú k dispozícii aj tie (5, 7, 9, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25).
 
-II.) Každé ráno o 7,00 hod si môžete vybrať poradový lístok na daný deň na stránke eČasenka. Je dôležité vedieť, že každé ráno vzniká minimálne 12 nových časeniek (čísla 1,2,3,4,6,8,9,10,11,12,13,14,15). Samozrejme, ak sa časenky dostupné 3 dni pred daným dňom neminuli (5,7,9, 16-25) budú tiež k dispozícii.
+II.) Každé ráno o 7,00 hod si môžete vybrať poradový lístok na daný deň aj online na stránke eČasenky. Je dôležité vedieť, že každé ráno vznikajú nové časenky, z ktorých sú online dostupné tieto (čísla  4, 6, 8, 9, 10, 11, 12, 13, 14, 15). Samozrejme, ak sa časenky dostupné 3 dni pred daným dňom neminuli (5, 7, 9, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25) budú tiež k dispozícii.
 
-III.) Okrem toho si na eČasenke môžete vybrať čísla (16-25) až 3 pracovné dni vopred. .
+III.) V sekcii "Objednať sa na iný deň" si môžete až 3 pracovné dni vopred vybrať čísla (16, 17, 18, 19, 20, 21, 22, 23, 24, 25).
 
 === PRÍPRAVA PRED VYŠETRENÍM ===
 Pacienti na prvé vyšetrenie:
  
 1. Výmenný lístok (môže byť aj elektronický) - kód odbornosti 040
 
-2. Dospelí prichádzajú na prvé vyšetrenie zvyčajne nalačno, avšak odporúčame im vypiť 2-3 poháre (cca. 500 ml) čistej vody, minerálky, prípadne nesladeného čaju. Predškoláci a malé deti nemusia byť nalačno - dôležitý je dostatočný príjem tekutín. Ak máte vysoké poradové číslo (viac ako 15), nemusíte byť nalačno, sú možné ľahké, nie na tuky bohaté raňajky. Diabetici môžu raňajkovať štandardne a podať si lieky na cukrovku ako zvyčajne.
+2. Dospelí prichádzajú na prvé vyšetrenie zvyčajne nalačno, avšak odporúčame im vypiť 2-3 poháre (cca. 500 ml) čistej vody, minerálky, prípadne nesladeného čaju. Ak máte vysoké poradové číslo (viac ako 15), nemusíte byť nalačno, možné sú ľahké (málo tuku) raňajky. Diabetici musia raňajkovať štandardne. Svoje lieky (na srdce, tlak a pod.) užívajte ako zvyčajne. Malé deti či predškoláci nemusia byť vôbec nalačno - tiež je dôležitý je dostatočný príjem tekutín. 
   
 3. Ak užívate tablety alebo sirupy na liečbu alergie, je potrebné ich vysadiť 1 týždeň pred prvým vyšetrením. Iné lieky (kvapky do nosa, spreje na astmu, či lieky na rôzne choroby - vysoký tlak a iné ...) si nikdy nevysaďte! 
 
-
-4. Na prvovyšetrenie si vyhraďte na seba resp. Vaše dieťa dostatok času.
+4. Na prvovyšetrenie si vyhraďte na seba resp. Vaše dieťa dostatok času. 
 
 === AKO FUNGUJE E-ČASENKA ===
 Zavedenie denného poradovníka (eČasenka) v našej ambulancii si vyžiadali pacienti, poisťovne a legislatíva. Poradové číslo Vám zabezpečí anonymitu a skráti Váš čas strávený v čakárni. Uvádzame niekoľko informácií, ktoré Vám uľahčia využívať výhody eČasenky.
@@ -40,7 +41,7 @@ Zavedenie denného poradovníka (eČasenka) v našej ambulancii si vyžiadali pa
 
 4. Na objednanie nového pacienta slúžia tlačítko "NOVÝ PACIENT" alebo si pacient príde vytlačiť lístok do čakárne ráno o 7:00 hod. 
 
-5. Ak eČasenka oznamuje, že "Lekár už nemá voľné termíny" na daný dátum, znamená to, že v požadovaný deň je ešte 12 časeniek (čísla 1,2,3,4,6,8,9,10,11,12,13,14,15 - pozri aj č.I.), ktoré budú dostupné od 7:00 hod ráno.
+5. ❗POZOR❗Ak je sekcii "VYŠETRENIE NA INÝ DEŇ" oznam "LEKÁR UŽ NEMÁ VOĽNÉ TERMÍNY" nie je to pravda, pretože, každé ráno si môžete zobrať až 12 nových časeniek (čísla 1-3 len v kiosku v čakárni) v sekcii "VYŠETRENIE NA DNES".. Tieto časenky sú dostupné v daný deň okolo 7:00 hod.❗POZOR❗. Pozri sekciu === ČASENKY na bežné vyšetrenie=== I.) aj II.) aj III.)
 
 6. Nevolajte nám, aké je teraz číslo v ambulancii. Zdržujete ostatných a aj tak nezistíte kedy budete na rade. ** TIP: Ak sa privoláte, dostanete SMS keď budú pred vami 3 pacienti. Nečakajte na SMS v iných mestách, pohybujte sa v blízkosti polikliniky. Máme tu nákupené centrá, 3 potravinové supermarkety, detské ihrisko či kostol. **
 
@@ -61,13 +62,14 @@ Recepty si objednávajte cez eČasenku. **TIP: Ak si objednáte recept cez eČas
 Sledujte web lekartin.sk a eČasenku, kde sú najnovšie oznamy
 
 === AK SA VÁM ČASENKA NEUŠLA, ALEBO SA ČASENKY MINULI ===
-Ak eČasenka oznamuje, že "Lekár už nemá voľné termíny" na daný dátum, znamená to, že v požadovaný deň je ešte 12 časeniek (čísla 1,2,3,4,6,8,9,10,11,12,13,14,15 - pozri aj č.I.), ktoré budú dostupné od 7:00 hod ráno.
+Ak eČasenka oznamuje, "LEKÁR UŽ NEMÁ VOĽNÉ TERMÍNY" nie je to pravda, pretože, každé ráno si môžete zobrať až 12 nových časeniek (čísla 1-3 len v kiosku v čakárni) v sekcii "VYŠETRENIE NA DNES". Tieto časenky sú dostupné v daný deň okolo 7:00 hod. Pozri sekciu === ČASENKY na bežné vyšetrenie=== I.) aj II.) aj III.)
 
 ===TELEFONICKÝ KONTAKT ===
 Toto je telefnické číslo na ambulanciu: 037/6503498. Volajte až po 13,00 hod, optimálne po 13,30. Predpoludním je v ambulancii vždy pacient, takže pravdepodobnosť, že sestra či lekár sa môžu venovať telefonovaniu je veľmi nízka. Volajte po ordinačných hodinách v pracovnej dobe.
 
 === KDE SA NACHÁDZAME ===
 Na Poliklinike Klokočina, v detskom trakte (zozadu polikliniky). Sledujne nápisy nad dverami. Naše čísla dverí sú 19, 20. Sme vedľa ambulancie MUDr. Seleckej (Pediatria) a Dr. Fajčíkovej (Nefrológia).
+
 
 
 
