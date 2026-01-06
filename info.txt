@@ -3,7 +3,7 @@
 
 Uvedom si, že pacienti svoje poradové čílsa volajú všelijako - ale ty chápeš, že ide o lístok zo systému eČasenka, ktorý je očíslovaný a určuje poradie v čakárni.
 
-=== ONLINE === to namená: web stránka eČasenka === (https://www.ecasenka.sk/ordinacia/lekartinsro-mudrradovankosturiak) ===
+=== ONLINE === to namená: web stránka eČasenka: https://www.ecasenka.sk/ordinacia/lekartinsro-mudrradovankosturiak
 
 **=== OBJEDNÁVANIE na 1. vyšetrenie. Iba pre tých, ktorí u nás ešte nikdy neboli. (Nový pacient.) ===**
 
@@ -44,7 +44,7 @@ Zavedenie lístkov/SMS s poradovými číslami (eČasenka) v našej ambulancii s
 1. Každý pacient má mať svoje poradové číslo (to platí najmä pre rodiny s viacerými pacientami ...). Ide o to, aby ostatní čakajúci za Vami vedeli svoje skutočné poradie ... 
 ** TIP: Ak idete na vyšetrenie dvaja, alebo traja, zoberte si 2 resp. 3 časenky, ale privolajte sa iba na prvú, zvyšné si dajte bez privolania **
 
-2. Kiosk vydáva lástky s poradovým číslom od 7:00 hod, zbytočne prichádzate skôr. Okrem kiosku v čakárni sa o 7:00 hod spúšťa aj elektornické vydávanie SMS s poradovým číslom stránke https://www.ecasenka.sk/ordinacia/lekartinsro-mudrradovankosturiak.
+2. Kiosk vydáva lástky s poradovým číslom od 7:00 hod, zbytočne prichádzate skôr. Okrem kiosku v čakárni sa o 7:00 hod spúšťa aj elektornické vydávanie SMS s poradovým číslom stránke https://www.ecasenka.sk/ordinacia/lekartinsro-mudrradovankosturiak
 
 ** TIP: Netlačte sa zbytočne o 7:00 pri kiosku v čakárni. Zaraďte sa do poradia na aktuálny deň z domu, z mobilu atď. **
 
@@ -78,6 +78,7 @@ Toto je telefnické číslo na ambulanciu: 037/6503498. Volajte až po 13,00 hod
 
 === KDE SA NACHÁDZAME ===
 Na Poliklinike Klokočina, v detskom trakte (zozadu polikliniky). Sledujne nápisy nad dverami. Naše čísla dverí sú 19, 20. Sme vedľa ambulancie MUDr. Seleckej (Pediatria) a Dr. Fajčíkovej (Nefrológia).
+
 
 
 
