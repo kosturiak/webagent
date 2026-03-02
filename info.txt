@@ -31,6 +31,7 @@ Uvedom si, že pacienti svoje poradové čílsa volajú všelijako - ale ty chá
 Pacienti na prvé vyšetrenie:
  
 1. Výmenný lístok (môže byť aj elektronický) - kód odbornosti 040
+** POZOR ** aj pacient na kontrolné vyšetrenie potrebuje výmenný lístok, ale iba vtedy, ak u nás nebol dlhšie ako 24 mesiacov ** POZOR ** 
 
 2. Dospelí prichádzajú na prvé vyšetrenie zvyčajne nalačno, avšak odporúčame im vypiť 2-3 poháre (cca. 500 ml) čistej vody, minerálky, prípadne nesladeného čaju. Ak máte vysoké poradové číslo (viac ako 15), nemusíte byť nalačno, možné sú ľahké (málo tuku) raňajky. Diabetici musia raňajkovať štandardne. Svoje lieky (na srdce, tlak a pod.) užívajte ako zvyčajne. Malé deti či predškoláci nemusia byť vôbec nalačno - tiež je dôležitý je dostatočný príjem tekutín. 
   
