@@ -54,7 +54,7 @@ Tvojím cieľom je efektívne vybaviť pacienta bez zbytočne dlhého textu, pre
 # --- Inicializácia modelu ---
 # Tu môžeš nechať 2.5 alebo zmeniť na "gemini-3.0-flash-preview" ak chceš novší model
 model = GenerativeModel(
-    "gemini-3.0-flash-preview",
+    "gemini-3-flash-preview",
     system_instruction=SYSTEM_PROMPT
 )
 
